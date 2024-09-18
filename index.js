@@ -21,7 +21,7 @@ import birdpic14 from "./images/CedarWaxwing.PNG";
 import birdpic15 from "./images/EasternKingbird.PNG";
 import birdpic16 from "./images/DarkEyedJunco.PNG";
 import birdpic17 from "./images/NorthernMockingbird.PNG";
-import birdpic18 from "./images/EasternBluebird.PNG";
+import birdpic18 from "https://imgur.com/a/Wqj0QUB";
 import birdpic19 from "./images/TennesseeWarbler.PNG";
 import birdpic20 from "./images/SummerTanger.PNG";
 
