@@ -40,7 +40,7 @@ const buttonData = [
   {
     id: 18,
     imageSrc: "./images/eb.PNG",
-    text: "Eastern Bluebird",
+    text: "Eastern bluebird",
   },
   {
     id: 19,
